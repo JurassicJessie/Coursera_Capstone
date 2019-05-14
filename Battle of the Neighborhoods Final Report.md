@@ -40,16 +40,27 @@ to video games and choose to look at the neighborhoods closest to those findings
   
   Venue Category
 Hookah Bar             1
+
 Sake Bar               1
+
 Hotel Bar              3
+
 Gay Bar                5
+
 Salon / Barbershop     5
+
 Juice Bar              8
+
 Sports Bar             8
+
 Wine Bar               9
+
 Cocktail Bar          14
+
 Beer Bar              17
+
 Bar                   42
+
 Majority of Bars in Toronto have a 'Venue Category' of Bar -47,Beer Bar-17,and Cocktail Bar - 14
 
 
