@@ -119,7 +119,7 @@ Northwest - 3rd most common venue
 - This cluster only lists 5 neighborhoods mostly with parks and Donut Shops 
 
 ##### Cluster 5 
--This cluster only lists one neighborhood with Motel as the top venue and no bars. 
+- This cluster only lists one neighborhood with Motel as the top venue and no bars. 
 
 ## Discussion
 
