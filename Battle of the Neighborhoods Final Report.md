@@ -122,6 +122,26 @@ Northwest - 3rd most common venue
 - This cluster only lists one neighborhood with Motel as the top venue and no bars. 
 
 ## Discussion
+We noted earlier our bar will be based around video games. With the data given and found through Foursquare, we were able to find one venue category based around gaming. This category is 'Gaming Cafe' and we found 2 located within the neighborhood of Chinatown, Grange Park, Kensington Market. 
 
+After viewing our clusters and using top 10 most venues per neighborhood, we can see that this same neighborhood has 'Bar' listed as the 3rd most common venue. 
 
+Looking at the map you can see a few other neighborhoods within our cluster. You can see the neighborhood of Harbord,University of Toronto is close in proximity to Chinatown,Grange Park,Kensington Market. 'Bar' is listed as its 5th most common venue. 
+Another neighborhood close in proximity is Adelaide,King,Richmond with 'Bar' as the 8th most common venue.
+
+## Conclusion 
+Based only on the observations above, I would recommend our investor to open their Video Game bar within 3 neighborhood areas. 
+
+- Chinatown,Grange Park,Kensington Market
+
+  This neighborhood has 2 gaming cafes, it is not far from a University where young adults may be interested in socializing and playing video games, and 'Bar' is 5th within the top 10 common venues.
+  
+ - Harbord,University of Toronto
+ 
+  This neighborhood is close to our first choice and is within a University neighborhood. 'Bar' is the 5th most common venue. 'Nightclub' is listed in its top 10 most common venues so our bar may benefit individuals who like to socialize and play games, instead of dancing/music.
+  
+ - Adelaide,King,Richmond
+ 
+ This neighborhood has 'Bar' as its 8th most common venue within the area. This neighborhood is still within close proximity to remain relevant to people familiar to "game" venue places in the area.
+ 
 
