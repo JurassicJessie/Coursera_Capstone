@@ -71,17 +71,55 @@ I used a folium map to display the clusters to help me find the top 3 best neigh
   My intention is to find the neighborhoods in which there is a popularity of bars and is also in close proximity to the gaming cafes as with that data being our only evidence of venues being centered around "Gaming" 
   
 ## Results
-Cluster 0 - This cluster only had one neighborhood of Roselawn so there is not enough variety to go off of to find the best location.
+##### Cluster 0 
+- This cluster only had one neighborhood of Roselawn so there is not enough variety to go off of to find the best location.
 
-Cluster 1 - This cluster had the most neighborhoods and with large variety. It also had 15 neighborhoods with bars listed as the top 10 most common venues.
+##### Cluster 1 
+- This cluster had the most neighborhoods and with large variety. It also had 15 neighborhoods with bars listed as the top 10 most common venues.
 
-Cluster 2 - This cluster returned 10 neighborhoods with Park and Diner listed in the the top common venues and no bars
+##### Cluster 2 
+- This cluster returned 10 neighborhoods with Park and Diner listed in the the top common venues and no bars
+since this cluster is large I will list the neighborhoods with the neighborhood name and Bar venue place.
 
-Cluster 3 - This cluster only returned 1 neighborhood. While it did have Bar listed as the top most common venue, it is the furthest away from the neighborhood with "Gaming Cafe"
+Northwood Park, York University - Bar is 4th most common venue
 
-Cluster 4 - This cluster only lists 5 neighborhoods mostly with parks and Donut Shops 
+Studio District - 7th most common venue
 
-Cluster 5 -This cluster only lists one neighborhood with Motel as the top venue and no bars. 
+Berczy Park - Cocktail Bar is 2nd most common venue, and Beer Bar is 5th most common
+
+Adelaide,King,Richmond - 8th most common venue
+
+Harbord,University of Toronto - 5th most common
+
+Chinatown,Grange Park,Kensington Market - 3rd most common venue, Cocktail Bar 10th most common venue
+
+Stn A PO Boxes 25 The Esplanade - Cocktail Bar 4th most common venue, Beer Bar 6th
+
+Dovercourt Village, Dufferin - 9th most common venue
+
+Little Portugal, Trinity - 1st most common venue
+
+Brockton, Exhibition Place,Parkdale Village - 9th most common venue
+
+Del Ray,Keelesdale,Mount Dennis,Silverthorn - 1st most common venue
+
+High Park,The Junction South - 1st most common venue
+
+Parkdale,Roncesvalles - 4th most common venue
+
+Runnymede,Swansea - 10th most common venue
+
+Northwest - 3rd most common venue
+
+
+##### Cluster 3 
+- This cluster only returned 1 neighborhood. While it did have Bar listed as the top most common venue, it is the furthest away from the neighborhood with "Gaming Cafe"
+
+##### Cluster 4 
+- This cluster only lists 5 neighborhoods mostly with parks and Donut Shops 
+
+##### Cluster 5 
+-This cluster only lists one neighborhood with Motel as the top venue and no bars. 
 
 ## Discussion
 
