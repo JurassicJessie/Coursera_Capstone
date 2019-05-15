@@ -64,9 +64,26 @@ Bar                   42
 Majority of Bars in Toronto have a 'Venue Category' of Bar -47,Beer Bar-17,and Cocktail Bar - 14
 
 
-I then used KMeans to get the mean frequency and cluster my data with the top 10 venues per neighborhood. I chose this method so I can choose the cluster that has the most bars listed as a top 10 most common venue.
+I then used KMeans to get the mean frequency and cluster my data with the top 10 venues per neighborhood. I chose this method so I can choose the cluster out of 6 that has the most bars listed as a top 10 most common venue.
 
 I used a folium map to display the clusters to help me find the top 3 best neighborhoods to recommend opening a video game bar.
 
   My intention is to find the neighborhoods in which there is a popularity of bars and is also in close proximity to the gaming cafes as with that data being our only evidence of venues being centered around "Gaming" 
   
+## Results
+Cluster 0 - This cluster only had one neighborhood of Roselawn so there is not enough variety to go off of to find the best location.
+
+Cluster 1 - This cluster had the most neighborhoods and with large variety. It also had 15 neighborhoods with bars listed as the top 10 most common venues.
+
+Cluster 2 - This cluster returned 10 neighborhoods with Park and Diner listed in the the top common venues and no bars
+
+Cluster 3 - This cluster only returned 1 neighborhood. While it did have Bar listed as the top most common venue, it is the furthest away from the neighborhood with "Gaming Cafe"
+
+Cluster 4 - This cluster only lists 5 neighborhoods mostly with parks and Donut Shops 
+
+Cluster 5 -This cluster only lists one neighborhood with Motel as the top venue and no bars. 
+
+## Discussion
+
+
+
