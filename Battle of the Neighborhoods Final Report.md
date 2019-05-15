@@ -76,9 +76,6 @@ I used a folium map to display the clusters to help me find the top 3 best neigh
 
 ##### Cluster 1 
 - This cluster had the most neighborhoods and with large variety. It also had 15 neighborhoods with bars listed as the top 10 most common venues.
-
-##### Cluster 2 
-- This cluster returned 10 neighborhoods with Park and Diner listed in the the top common venues and no bars
 since this cluster is large I will list the neighborhoods with the neighborhood name and Bar venue place.
 
 Northwood Park, York University - Bar is 4th most common venue
@@ -112,6 +109,10 @@ Runnymede,Swansea - 10th most common venue
 Northwest - 3rd most common venue
 
 
+##### Cluster 2 
+- This cluster returned 10 neighborhoods with Park and Diner listed in the the top common venues and no bars
+
+
 ##### Cluster 3 
 - This cluster only returned 1 neighborhood. While it did have Bar listed as the top most common venue, it is the furthest away from the neighborhood with "Gaming Cafe"
 
@@ -122,10 +123,10 @@ Northwest - 3rd most common venue
 - This cluster only lists one neighborhood with Motel as the top venue and no bars. 
 
 ## Discussion
-We noted earlier our bar will be based around video games. With the data given and found through Foursquare, we were able to find one venue category based around gaming. This category is 'Gaming Cafe' and we found 2 located within the neighborhood of Chinatown, Grange Park, Kensington Market. 
+We noted earlier our bar will be based around video games. With the data given and found through Foursquare, we were able to find one venue category based around gaming. This category is 'Gaming Cafe' and we found 2 located within the neighborhood of Chinatown, Grange Park, Kensington Market. We can also note that this same neighborhood has 'Bar' listed as the 3rd most common venue. 
 
-After viewing our clusters and using top 10 most venues per neighborhood, we can see that this same neighborhood has 'Bar' listed as the 3rd most common venue. 
 
+After viewing our clusters and using top 10 most venues per neighborhood,we decided to look more closely at cluster 1. 
 Looking at the map you can see a few other neighborhoods within our cluster. You can see the neighborhood of Harbord,University of Toronto is close in proximity to Chinatown,Grange Park,Kensington Market. 'Bar' is listed as its 5th most common venue. 
 Another neighborhood close in proximity is Adelaide,King,Richmond with 'Bar' as the 8th most common venue.
 
