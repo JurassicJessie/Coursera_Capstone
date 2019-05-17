@@ -24,7 +24,7 @@ We will be using three sources of Data in this project
   
    
    
- Once we have retrieved all our data and put into a Pandas Dataframe, we will use KMeans clustering to cluster the neighborhoods and present the data on a folium map. We will asl use Foursquare API to analyze top neighborhood venues and any other venues that may relate 
+ Once we have retrieved all our data and put into a Pandas Dataframe, we will use KMeans clustering to cluster the neighborhoods and present the data on a folium map. We will use Foursquare API to analyze top neighborhood venues and any other venues that may relate 
 to video games and choose to look at the neighborhoods closest to those findings.
 
 ## Methodology 
