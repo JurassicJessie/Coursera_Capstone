@@ -64,11 +64,11 @@ Bar                   42
 Majority of Bars in Toronto have a 'Venue Category' of Bar -47,Beer Bar-17,and Cocktail Bar - 14
 
 
-I then used KMeans to get the mean frequency and cluster my data with the top 10 venues per neighborhood. I chose this method so I can choose the cluster out of 6 that has the most bars listed as a top 10 most common venue.
+Using KMeans to get the mean frequency, I clustered my data with the top 10 venues per neighborhood. I chose this method so I can choose the cluster out of 6 that has the most bars listed as a top 10 most common venue.
 
 I used a folium map to display the clusters to help me find the top 3 best neighborhoods to recommend opening a video game bar.
 
-  My intention is to find the neighborhoods in which there is a popularity of bars and is also in close proximity to the gaming cafes as with that data being our only evidence of venues being centered around "Gaming" 
+  My intention is to find the neighborhoods in which there is a popularity of bars and is also in close proximity to the gaming cafes as our only evidence of venues being centered around "Gaming".
   
 ## Results
 ##### Cluster 0 
